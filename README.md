@@ -12,7 +12,6 @@ I'm Uditha Landekumbura. I work as a software engineer during the daytime. At ni
 - 🌱 I’m currently learning Spring Boot,NodeJS. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an Music lover and reading lot of books.
-- 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
 
 ---
 

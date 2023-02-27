@@ -2,7 +2,7 @@
 
 I'm Uditha Landekumbura. I work as a software engineer during the daytime. At night, I switch into my creator mode - earning some knowledge about software development and engineering!
 
-<a href="" target="_blank"><img src="" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 

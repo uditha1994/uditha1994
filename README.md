@@ -8,7 +8,7 @@ I'm Uditha Landekumbura. I work as a software engineer during the daytime. At ni
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at Red Vulture Innovations(https://www.redvultures.dev).
+- 🔭 I’m currently working with at Red Vulture Innovations.
 - 🌱 I’m currently learning Spring Boot,NodeJS. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an Music lover and reading lot of books.

@@ -8,7 +8,7 @@ I'm Uditha Landekumbura. I work as a software engineer during the daytime. At ni
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at Red Vulture Innovations.
+- 🔭 I’m currently working with at FullStack Craft as Software Engineer.
 - 🌱 I’m currently learning Spring Boot,NodeJS. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an Music lover and reading lot of books.
@@ -17,9 +17,8 @@ I'm Uditha Landekumbura. I work as a software engineer during the daytime. At ni
 
 ### 🤝🏻 Connect, Follow, Subscribe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditha-landekumbura-811546240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditha94)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)]()
 

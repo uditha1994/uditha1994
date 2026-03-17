@@ -11,8 +11,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=tharukau0&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<a href="https://github.com/tharukau0?tab=followers">
-  <img src="https://img.shields.io/github/followers/tharukau0?style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers"/>
+<a href="https://github.com/uditha1994?tab=followers">
+  <img src="https://img.shields.io/github/followers/uditha1994?style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers"/>
 </a>
 
 </div>
@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharukau0&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" width="320"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditha1994&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" width="320"/>
 
 ```yaml
 name: Uditha Landekumbura
@@ -87,16 +87,16 @@ fun_fact: I debug by day, create by night
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharukau0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uditha1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharukau0&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uditha1994&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharukau0&custom_title=Contribution%20Graph&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditha1994&custom_title=Contribution%20Graph&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -105,9 +105,9 @@ fun_fact: I debug by day, create by night
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharukau0)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharukau0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uditha1994)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditha@programmer.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditha94/)
 [![Medium](https://img.shields.io/badge/Medium-Add_Link-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-Add_Link-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-Add_Link-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)

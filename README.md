@@ -1,9 +1,12 @@
 <div align="center">
 
-# Uditha Landekumbura
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uditha1994/uditha1994/main/assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uditha1994/uditha1994/main/assets/banner-light.svg" />
+  <img alt="Uditha Landekumbura — Lecturer, Software Engineer, Builder. Colombo, Sri Lanka" src="https://raw.githubusercontent.com/uditha1994/uditha1994/main/assets/banner-dark.svg" width="100%" />
+</picture>
 
-### Lecturer · Software Engineer · Builder
-Colombo, Sri Lanka
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=6C63FF&center=true&vCenter=true&width=640&lines=I+teach+it+in+the+morning%2C+I+ship+it+at+night;Lecturer+%26+Program+Manager+%40+MSI+Sri+Lanka;Spring+Boot+%C2%B7+React+%C2%B7+Angular+%C2%B7+Laravel+%C2%B7+IoT;Coaching+the+next+batch+of+ICPC+competitors" alt="Typing SVG" />
@@ -15,15 +18,27 @@ Colombo, Sri Lanka
 <a href="https://github.com/uditha1994?tab=followers"><img src="https://img.shields.io/github/followers/uditha1994?style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers"/></a>
 <a href="https://www.linkedin.com/in/uditha94/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+<br/>
+
+*උදේ උගන්වනවා, රෑට හදනවා.*
+
 </div>
+
+---
+
+### Start here
+
+| If you are a | Go to |
+|---|---|
+| **Student of mine** | [Built for the classroom](#built-for-the-classroom), the code behind the lectures |
+| **Recruiter or client** | [Selected work](#selected-work) |
+| **Fellow builder** | [Get in touch](#get-in-touch) |
 
 ---
 
 ## Who I am
 
 I sit on both sides of the desk. By day I am a **Lecturer and Program Manager** at the Management and Science Institute in Sri Lanka, teaching Computer Science diploma and degree students. The rest of the time I am a **software engineer** shipping real systems.
-
-Most of what you see here comes out of that loop. A module I teach turns into a reference project my students can read. A problem on campus turns into a system that runs on campus. A game I build becomes the teaching material for a workshop.
 
 ```yaml
 name:      Uditha Landekumbura
@@ -34,6 +49,24 @@ builds:    Spring Boot · React · Angular · Node.js · Laravel · PHP · IoT
 coaches:   ICPC Sri Lanka team · STACK, the campus ICT club
 based_in:  Colombo, Sri Lanka
 ```
+
+---
+
+## How the work loops
+
+Almost nothing here is a portfolio piece built to be looked at. The teaching and the engineering feed each other, and this is the shape that takes.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uditha1994/uditha1994/main/assets/loop-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uditha1994/uditha1994/main/assets/loop-light.svg" />
+  <img alt="The loop: teach the module, publish the build, ship it for real, take it back to the class" src="https://raw.githubusercontent.com/uditha1994/uditha1994/main/assets/loop-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+A module on MVC becomes [sahana-health](https://github.com/uditha1994/sahana-health), written live in a 90 minute class. A timetable problem on campus becomes [msi-signage](https://github.com/uditha1994/msi-signage), which now runs on the Smart TVs. A browser game becomes the material for a two hour workshop. Then all of it goes back into next year's syllabus.
 
 ---
 
@@ -64,7 +97,7 @@ based_in:  Colombo, Sri Lanka
 
 ## Built for the classroom
 
-These are not portfolio pieces. They are the reference implementations I write for the modules I teach, kept public so my students, and anyone else, can read the code behind the lecture.
+These are the reference implementations I write for the modules I teach, kept public so my students, and anyone else, can read the code behind the lecture.
 
 | Topic I teach | Repository |
 |---|---|

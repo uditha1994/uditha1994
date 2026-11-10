@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="How the work loops: teach a module, write the reference build, ship the real thing, take it back to class">
+<rect width="1200" height="320" rx="14" fill="#0D1117" stroke="#30363D"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 1 L 9 5 L 0 9 z" fill="#8B949E"/></marker></defs>
+<rect x="43" y="52" width="250" height="112" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="43" y="52" width="4" height="112" rx="2" fill="#6C63FF"/>
+<circle cx="73" cy="80" r="12" fill="#6C63FF" opacity="0.18"/>
+<text x="73" y="85" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#6C63FF" text-anchor="middle">1</text>
+<text x="95" y="85" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#E6EDF3">Teach the module</text>
+<text x="63" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8B949E">what the syllabus needs</text>
+<text x="63" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6C63FF">MVC · REST · IoT</text>
+<line x1="303" y1="108" x2="321" y2="108" stroke="#8B949E" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="331" y="52" width="250" height="112" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="331" y="52" width="4" height="112" rx="2" fill="#8B84FF"/>
+<circle cx="361" cy="80" r="12" fill="#8B84FF" opacity="0.18"/>
+<text x="361" y="85" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#8B84FF" text-anchor="middle">2</text>
+<text x="383" y="85" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#E6EDF3">Publish the build</text>
+<text x="351" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8B949E">students read the code</text>
+<text x="351" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8B84FF">sahana-health</text>
+<line x1="591" y1="108" x2="609" y2="108" stroke="#8B949E" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="619" y="52" width="250" height="112" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="619" y="52" width="4" height="112" rx="2" fill="#E8B04B"/>
+<circle cx="649" cy="80" r="12" fill="#E8B04B" opacity="0.18"/>
+<text x="649" y="85" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#E8B04B" text-anchor="middle">3</text>
+<text x="671" y="85" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#E6EDF3">Ship it for real</text>
+<text x="639" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8B949E">it runs on campus</text>
+<text x="639" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#E8B04B">msi-signage</text>
+<line x1="879" y1="108" x2="897" y2="108" stroke="#8B949E" stroke-width="1.6" marker-end="url(#ah)"/>
+<rect x="907" y="52" width="250" height="112" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="907" y="52" width="4" height="112" rx="2" fill="#D1952F"/>
+<circle cx="937" cy="80" r="12" fill="#D1952F" opacity="0.18"/>
+<text x="937" y="85" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#D1952F" text-anchor="middle">4</text>
+<text x="959" y="85" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#E6EDF3">Back to the class</text>
+<text x="927" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8B949E">workshops and coaching</text>
+<text x="927" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#D1952F">ICPC · STACK</text>
+<path d="M 1032 172 V 232 H 168 V 176" fill="none" stroke="#8B949E" stroke-width="1.6" stroke-dasharray="5 5" marker-end="url(#ah)" opacity="0.8"/>
+<text x="600" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8B949E" text-anchor="middle">every module turns into a real system, and every system turns back into a lecture</text>
+</svg>
